@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenCache.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenAuthLoginModule.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenJaasKrbUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/sasl/SaslAppServer.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/sasl/SaslAppClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/AppUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/AppServer.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/Transport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/gss/GssAppServer.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/gss/GssAppClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/main/java/org/apache/kerby/kerberos/kerb/integration/test/AppClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthDisabled.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestBase.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/AppTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/GssAppTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/SaslAppTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthEnabled.java">
+</file>
+</checkstyle>

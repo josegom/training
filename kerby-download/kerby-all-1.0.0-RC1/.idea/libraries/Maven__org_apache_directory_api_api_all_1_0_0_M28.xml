@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.directory.api:api-all:1.0.0-M28">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-all/1.0.0-M28/api-all-1.0.0-M28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-all/1.0.0-M28/api-all-1.0.0-M28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/api/api-all/1.0.0-M28/api-all-1.0.0-M28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

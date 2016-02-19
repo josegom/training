@@ -1,0 +1,9 @@
+org/apache/kerby/kerberos/kerb/identity/CacheableIdentityService$1.class
+org/apache/kerby/kerberos/kerb/identity/backend/MemoryIdentityBackend.class
+org/apache/kerby/kerberos/kerb/identity/backend/IdentityBackend.class
+org/apache/kerby/kerberos/kerb/identity/IdentityService.class
+org/apache/kerby/kerberos/kerb/identity/KrbIdentity.class
+org/apache/kerby/kerberos/kerb/identity/backend/AbstractIdentityBackend.class
+org/apache/kerby/kerberos/kerb/identity/CacheableIdentityService.class
+org/apache/kerby/kerberos/kerb/identity/backend/MemoryIdentityBackend$1.class
+org/apache/kerby/kerberos/kerb/identity/backend/BackendConfig.class

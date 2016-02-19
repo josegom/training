@@ -1,0 +1,7 @@
+org/apache/kerby/kerberos/kerb/client/Krb5Conf.class
+org/apache/kerby/kerberos/kerb/client/JaasKrbUtil$PasswordJaasConf.class
+org/apache/kerby/kerberos/kerb/client/JaasKrbUtil.class
+org/apache/kerby/kerberos/kerb/server/SimpleKdcServer.class
+org/apache/kerby/kerberos/kerb/client/JaasKrbUtil$KeytabJaasConf.class
+org/apache/kerby/kerberos/kerb/client/JaasKrbUtil$TicketCacheJaasConf.class
+org/apache/kerby/kerberos/kerb/client/JaasKrbUtil$KrbCallbackHandler.class

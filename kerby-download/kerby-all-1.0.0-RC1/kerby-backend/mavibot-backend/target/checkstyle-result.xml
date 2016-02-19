@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/mavibot-backend/src/main/java/org/apache/kerby/MavibotBackend.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/mavibot-backend/src/main/java/org/apache/kerby/KrbIdentityComparator.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/mavibot-backend/src/main/java/org/apache/kerby/KrbIdentitySerializer.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/mavibot-backend/src/test/java/org/apache/kerby/KrbIdentitySerializerTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/mavibot-backend/src/test/java/org/apache/kerby/MavibotBackendTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/ldap-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/LdapIdentityGetHelper.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/ldap-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/LdapIdentityBackend.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/ldap-backend/src/test/java/org/apache/kerby/kerberos/kerb/identity/backend/AbstractLdapIdentityBackendTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/ldap-backend/src/test/java/org/apache/kerby/kerberos/kerb/identity/backend/DirectoryLdapIdentityBackendTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/ldap-backend/src/test/java/org/apache/kerby/kerberos/kerb/identity/backend/LdapIdentityBackendTest.java">
+</file>
+</checkstyle>

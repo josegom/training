@@ -1,0 +1,15 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/TicketCacheLoginTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/KeytabLoginTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/TcpAndUdpKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/GssUdpInteropTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/GssTcpInteropTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/MultiRequestsKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/OnlyTcpKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/LoginTestBase.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/TestKdcServer.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/GssInteropTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/KdcSettingTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/OnlyUdpKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/KdcTestBase.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/PasswordLoginTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-kdc-test/src/test/java/org/apache/kerby/kerberos/kerb/server/KdcTest.java

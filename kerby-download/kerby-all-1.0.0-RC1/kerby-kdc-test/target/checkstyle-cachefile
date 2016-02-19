@@ -1,0 +1,16 @@
+#Fri Feb 05 11:24:05 CET 2016
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/JsonBackendKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithIdentityTokenKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/KerbyKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyTcpForNettyKdcNetworkTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/LdapBackendKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyUdpForNettyKdcNetworkTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/AbstractLdapBackendKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithAccessTokenKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssInteropTestBase.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/ZookeeperBackendKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/EncryptionTypeKdcTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssUdpInteropTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssTcpInteropTest.java=1441893044000
+configuration*?=01EBB52150F83D439B20B9659C26C327C8AB4218
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithTokenKdcTestBase.java=1441893044000

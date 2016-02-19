@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheOutputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Credential.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredentialCache.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheInputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/KrbCredentialCache.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Tag.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntry.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KrbKeytab.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabInputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabOutputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/Keytab.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbInputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbOutputStream.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/KeysTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/CcacheTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/EncryptionTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/KeytabTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/NewEncryptionTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/klist/KlistOption.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/klist/KlistTool.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/token/TokenCache.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/token/TokenInit.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/ToolUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/kinit/KinitOption.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/kinit/KinitTool.java">
+</file>
+</checkstyle>

@@ -1,0 +1,20 @@
+#Fri Feb 05 11:20:15 CET 2016
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbInputStream.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/KeysTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbOutputStream.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/NewEncryptionTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/CcacheTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/Keytab.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Tag.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/KeytabTest.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredentialCache.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KrbKeytab.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabOutputStream.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/test/java/org/apache/kerby/kerberos/kerb/util/EncryptionTest.java=1441893044000
+configuration*?=51FAA3D52ABAD60D66A31B191C5401A3100E8E69
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheInputStream.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntry.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabInputStream.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/KrbCredentialCache.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Credential.java=1441893044000
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheOutputStream.java=1441893044000

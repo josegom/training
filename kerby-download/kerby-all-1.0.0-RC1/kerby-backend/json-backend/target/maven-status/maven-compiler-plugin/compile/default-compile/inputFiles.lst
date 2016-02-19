@@ -1,0 +1,4 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/json-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/JsonIdentityBackend.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/json-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/PrincipalNameAdapter.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/json-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/EncryptionKeyAdapter.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-backend/json-backend/src/main/java/org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/KerberosTimeAdapter.java

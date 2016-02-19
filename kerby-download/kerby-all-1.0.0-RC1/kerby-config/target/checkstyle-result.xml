@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/PropertiesFileConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/ConfigImpl.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/ConfigObject.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/XmlConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/Config.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/Resource.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/JsonConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/Conf.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/ConfigKey.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/PropertiesConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/IniConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/Configured.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/MapConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/Configurable.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/main/java/org/apache/kerby/config/ConfigLoader.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/test/java/org/apache/kerby/config/ConfigImplTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/test/java/org/apache/kerby/config/IniConfigTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-config/src/test/java/org/apache/kerby/config/ConfTest.java">
+</file>
+</checkstyle>

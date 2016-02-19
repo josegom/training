@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/Message.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/KrbThrow.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/TransportPair.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/AbstractKrbTransport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KdcNetwork.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KrbTcpTransport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KdcUdpTransport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KrbNetwork.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KrbUdpTransport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/transport/KrbTransport.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/auth/AuthContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/PaFlags.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/builtin/TgtPreauthMeta.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/builtin/EncTsPreauthMeta.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/token/TokenPreauthMeta.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/PaFlag.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/pkinit/PluginOpts.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/pkinit/PkinitPreauthMeta.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/pkinit/IdentityType.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/pkinit/PkinitIdenity.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/pkinit/IdentityOpts.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/PluginRequestContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/preauth/PreauthPluginMeta.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/MessageCode.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/KrbErrorUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/SectionConfigKey.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/EncryptionUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/CheckSumUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/KrbUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-common/src/main/java/org/apache/kerby/kerberos/kerb/common/KrbConfHelper.java">
+</file>
+</checkstyle>

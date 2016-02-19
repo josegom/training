@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Kerby Backend
+
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Kerby Util (http://directory.apache.org/kerby/kerby-util) org.apache.kerby:kerby-util:jar:1.0.0-RC1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

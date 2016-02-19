@@ -1,0 +1,7 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/token/TokenInit.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/ToolUtil.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/kinit/KinitOption.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/kinit/KinitTool.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/klist/KlistTool.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/token/TokenCache.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/client-tool/src/main/java/org/apache/kerby/kerberos/tool/klist/KlistOption.java

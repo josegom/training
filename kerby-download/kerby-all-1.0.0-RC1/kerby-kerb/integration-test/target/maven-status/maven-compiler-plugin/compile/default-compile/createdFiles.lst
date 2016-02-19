@@ -1,0 +1,17 @@
+org/apache/kerby/kerberos/kerb/integration/test/Transport$Message.class
+org/apache/kerby/kerberos/kerb/integration/test/Transport.class
+org/apache/kerby/kerberos/kerb/integration/test/AppClient.class
+org/apache/kerby/kerberos/kerb/integration/test/gss/GssAppClient.class
+org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenCache.class
+org/apache/kerby/kerberos/kerb/integration/test/Transport$Connector.class
+org/apache/kerby/kerberos/kerb/integration/test/AppServer.class
+org/apache/kerby/kerberos/kerb/integration/test/sasl/SaslAppServer$SaslGssCallbackHandler.class
+org/apache/kerby/kerberos/kerb/integration/test/sasl/SaslAppServer.class
+org/apache/kerby/kerberos/kerb/integration/test/Transport$Connection.class
+org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenJaasKrbUtil.class
+org/apache/kerby/kerberos/kerb/integration/test/sasl/SaslAppClient.class
+org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenJaasKrbUtil$TokenJaasConf.class
+org/apache/kerby/kerberos/kerb/integration/test/jaas/TokenAuthLoginModule.class
+org/apache/kerby/kerberos/kerb/integration/test/Transport$Acceptor.class
+org/apache/kerby/kerberos/kerb/integration/test/gss/GssAppServer.class
+org/apache/kerby/kerberos/kerb/integration/test/AppUtil.class

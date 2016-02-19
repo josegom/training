@@ -1,0 +1,14 @@
+org/apache/kerby/kerberos/kdc/ZookeeperBackendKdcTest.class
+org/apache/kerby/kerberos/kdc/JsonBackendKdcTest.class
+org/apache/kerby/kerberos/kdc/LdapBackendKdcTest.class
+org/apache/kerby/kerberos/kdc/GssInteropTestBase.class
+org/apache/kerby/kerberos/kdc/WithTokenKdcTestBase.class
+org/apache/kerby/kerberos/kdc/EncryptionTypeKdcTest.class
+org/apache/kerby/kerberos/kdc/AbstractLdapBackendKdcTest.class
+org/apache/kerby/kerberos/kdc/GssUdpInteropTest.class
+org/apache/kerby/kerberos/kdc/KerbyKdcTest.class
+org/apache/kerby/kerberos/kdc/OnlyTcpForNettyKdcNetworkTest.class
+org/apache/kerby/kerberos/kdc/WithIdentityTokenKdcTest.class
+org/apache/kerby/kerberos/kdc/OnlyUdpForNettyKdcNetworkTest.class
+org/apache/kerby/kerberos/kdc/WithAccessTokenKdcTest.class
+org/apache/kerby/kerberos/kdc/GssTcpInteropTest.class

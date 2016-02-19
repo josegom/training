@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-admin/src/main/java/org/apache/kerby/kerberos/kerb/admin/AdminHelper.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-admin/src/main/java/org/apache/kerby/kerberos/kerb/admin/KadminOption.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-admin/src/main/java/org/apache/kerby/kerberos/kerb/admin/Kadmin.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-admin/src/test/java/org/apache/kerby/kerberos/kerb/admin/KadminTest.java">
+</file>
+</checkstyle>

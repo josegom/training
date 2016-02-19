@@ -1,0 +1,17 @@
+org/apache/kerby/kerberos/kerb/server/OnlyUdpKdcTest.class
+org/apache/kerby/kerberos/kerb/server/KdcTest.class
+org/apache/kerby/kerberos/kerb/server/TicketCacheLoginTest.class
+org/apache/kerby/kerberos/kerb/server/KeytabLoginTest.class
+org/apache/kerby/kerberos/kerb/server/TcpAndUdpKdcTest.class
+org/apache/kerby/kerberos/kerb/server/GssInteropTest$KerberosServiceExceptionAction.class
+org/apache/kerby/kerberos/kerb/server/GssTcpInteropTest.class
+org/apache/kerby/kerberos/kerb/server/LoginTestBase.class
+org/apache/kerby/kerberos/kerb/server/PasswordLoginTest.class
+org/apache/kerby/kerberos/kerb/server/KdcTestBase.class
+org/apache/kerby/kerberos/kerb/server/MultiRequestsKdcTest.class
+org/apache/kerby/kerberos/kerb/server/GssInteropTest.class
+org/apache/kerby/kerberos/kerb/server/TestKdcServer.class
+org/apache/kerby/kerberos/kerb/server/GssUdpInteropTest.class
+org/apache/kerby/kerberos/kerb/server/GssInteropTest$KerberosClientExceptionAction.class
+org/apache/kerby/kerberos/kerb/server/KdcSettingTest.class
+org/apache/kerby/kerberos/kerb/server/OnlyTcpKdcTest.class

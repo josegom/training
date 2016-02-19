@@ -1,0 +1,4 @@
+org/apache/kerby/config/IniConfigTest.class
+org/apache/kerby/config/ConfTest.class
+org/apache/kerby/config/ConfTest$TestConfKey.class
+org/apache/kerby/config/ConfigImplTest.class

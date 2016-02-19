@@ -1,0 +1,6 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestBase.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthEnabled.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthDisabled.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/AppTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/SaslAppTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/integration-test/src/test/java/org/apache/kerby/kerberos/kerb/integration/test/GssAppTest.java

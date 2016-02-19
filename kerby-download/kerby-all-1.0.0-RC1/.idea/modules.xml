@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/benchmark/benchmark.iml" filepath="$PROJECT_DIR$/benchmark/benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-tool/client-tool/client-tool.iml" filepath="$PROJECT_DIR$/kerby-tool/client-tool/client-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/kerby-kerb/integration-test/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-backend/json-backend/json-backend.iml" filepath="$PROJECT_DIR$/kerby-backend/json-backend/json-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-dist/kdc-dist/kdc-dist.iml" filepath="$PROJECT_DIR$/kerby-dist/kdc-dist/kdc-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-tool/kdc-tool/kdc-tool.iml" filepath="$PROJECT_DIR$/kerby-tool/kdc-tool/kdc-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-admin/kerb-admin.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-admin/kerb-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-client/kerb-client.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-client/kerb-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-client-api-all/kerb-client-api-all.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-client-api-all/kerb-client-api-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-common/kerb-common.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-common/kerb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-core/kerb-core.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-core/kerb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-core-test/kerb-core-test.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-core-test/kerb-core-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-crypto/kerb-crypto.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-crypto/kerb-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-identity/kerb-identity.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-identity/kerb-identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-identity-test/kerb-identity-test.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-identity-test/kerb-identity-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-kdc-test/kerb-kdc-test.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-kdc-test/kerb-kdc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-server/kerb-server.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-server/kerb-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-server-api-all/kerb-server-api-all.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-server-api-all/kerb-server-api-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-simplekdc/kerb-simplekdc.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-simplekdc/kerb-simplekdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerb-util/kerb-util.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerb-util/kerb-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-all.iml" filepath="$PROJECT_DIR$/kerby-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-asn1/kerby-asn1.iml" filepath="$PROJECT_DIR$/kerby-asn1/kerby-asn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-backend/kerby-backend.iml" filepath="$PROJECT_DIR$/kerby-backend/kerby-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-config/kerby-config.iml" filepath="$PROJECT_DIR$/kerby-config/kerby-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-dist/kerby-dist.iml" filepath="$PROJECT_DIR$/kerby-dist/kerby-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kdc/kerby-kdc.iml" filepath="$PROJECT_DIR$/kerby-kdc/kerby-kdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kdc-test/kerby-kdc-test.iml" filepath="$PROJECT_DIR$/kerby-kdc-test/kerby-kdc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-kerb/kerby-kerb.iml" filepath="$PROJECT_DIR$/kerby-kerb/kerby-kerb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-provider/kerby-provider.iml" filepath="$PROJECT_DIR$/kerby-provider/kerby-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-tool/kerby-tool.iml" filepath="$PROJECT_DIR$/kerby-tool/kerby-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-util/kerby-util.iml" filepath="$PROJECT_DIR$/kerby-util/kerby-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-backend/ldap-backend/ldap-backend.iml" filepath="$PROJECT_DIR$/kerby-backend/ldap-backend/ldap-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-backend/mavibot-backend/mavibot-backend.iml" filepath="$PROJECT_DIR$/kerby-backend/mavibot-backend/mavibot-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-provider/token-provider/token-provider.iml" filepath="$PROJECT_DIR$/kerby-provider/token-provider/token-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-dist/tool-dist/tool-dist.iml" filepath="$PROJECT_DIR$/kerby-dist/tool-dist/tool-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerby-backend/zookeeper-backend/zookeeper-backend.iml" filepath="$PROJECT_DIR$/kerby-backend/zookeeper-backend/zookeeper-backend.iml" />
+    </modules>
+  </component>
+</project>

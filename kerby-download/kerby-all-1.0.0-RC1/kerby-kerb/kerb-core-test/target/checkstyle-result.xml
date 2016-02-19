@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestTgsReqCodec.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/CodecTestUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestAsRepCodec.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestTgsRepCodec.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/CodecTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestAsReqCodec.java">
+</file>
+</checkstyle>

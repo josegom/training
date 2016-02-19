@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc/src/main/java/org/apache/kerby/kerberos/kdc/impl/NettyKdcServerImpl.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc/src/main/java/org/apache/kerby/kerberos/kdc/impl/NettyKdcHandler.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc/src/main/java/org/apache/kerby/kerberos/kdc/impl/NettyKdcNetwork.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc/src/main/java/org/apache/kerby/kerberos/kdc/impl/NettyKdcUdpServerHandler.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc/src/main/java/org/apache/kerby/kerberos/kdc/KerbyKdcServer.java">
+</file>
+</checkstyle>

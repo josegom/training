@@ -1,0 +1,102 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building kerby-client 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ kerby-client ---
+[INFO] com.stratio.training:kerby-client:jar:1.0-SNAPSHOT
+[INFO] +- org.apache.kerby:kerb-client-api-all:jar:1.0.0-RC1:compile
+[INFO] |  \- org.apache.kerby:kerb-client:jar:1.0.0-RC1:compile
+[INFO] |     +- org.apache.kerby:kerby-config:jar:1.0.0-RC1:compile
+[INFO] |     \- org.apache.kerby:kerb-common:jar:1.0.0-RC1:compile
+[INFO] +- org.apache.kerby:kerb-core-test:jar:1.0.0-RC1:compile
+[INFO] |  +- org.apache.kerby:kerby-asn1:jar:1.0.0-RC1:compile
+[INFO] |  +- org.apache.kerby:kerb-core:jar:1.0.0-RC1:compile
+[INFO] |  \- org.apache.kerby:kerb-util:jar:1.0.0-RC1:compile
+[INFO] |     \- org.apache.kerby:kerb-crypto:jar:1.0.0-RC1:compile
+[INFO] |        \- org.apache.kerby:kerby-util:jar:1.0.0-RC1:compile
+[INFO] +- junit:junit:jar:4.7:provided
+[INFO] +- log4j:log4j:jar:1.2.14:provided
+[INFO] +- org.slf4j:slf4j-log4j12:jar:1.5.10:provided
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.5.10:compile
+[INFO] +- org.apache.directory.server:apacheds-all:jar:2.0.0-M21:compile
+[INFO] +- org.apache.directory.server:apacheds-server-integ:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-core:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-admin:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-number:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-authz:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-changelog:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-collective:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-event:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-exception:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-journal:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-normalization:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-operational:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-referral:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-schema:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-subtree:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-interceptors-trigger:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.api:api-ldap-extras-util:jar:1.0.0-M33:compile
+[INFO] |  |  \- org.bouncycastle:bcprov-jdk15on:jar:1.52:compile
+[INFO] |  +- org.apache.directory.server:apacheds-core-annotations:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-ldif-partition:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-jdbm-partition:jar:2.0.0-M21:compile
+[INFO] |  |  |  \- org.apache.directory.server:apacheds-core-avl:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-xdbm-partition:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.mavibot:mavibot:jar:1.0.0-M8:compile
+[INFO] |  |  \- org.apache.directory.server:apacheds-mavibot-partition:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-core-api:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-core-constants:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.api:api-i18n:jar:1.0.0-M33:compile
+[INFO] |  |  +- org.apache.directory.api:api-ldap-extras-aci:jar:1.0.0-M33:compile
+[INFO] |  |  \- net.sf.ehcache:ehcache:jar:2.8.5:compile
+[INFO] |  +- org.apache.directory.server:apacheds-core-shared:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.api:api-ldap-extras-codec-api:jar:1.0.0-M33:compile
+[INFO] |  |  \- org.apache.directory.jdbm:apacheds-jdbm1:jar:2.0.0-M3:compile
+[INFO] |  +- org.apache.directory.server:apacheds-core-jndi:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M21:compile
+[INFO] |  |  \- org.apache.directory.api:api-asn1-ber:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.directory.server:apacheds-interceptor-kerberos:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-protocol-ldap:jar:2.0.0-M21:compile
+[INFO] |  |  \- org.apache.directory.server:apacheds-protocol-shared:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-server-annotations:jar:2.0.0-M21:compile
+[INFO] |  |  \- org.apache.directory.server:apacheds-protocol-kerberos:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-test-framework:jar:2.0.0-M21:compile
+[INFO] |  |  \- org.apache.directory.api:api-ldap-codec-standalone:jar:1.0.0-M33:compile
+[INFO] |  |     \- org.apache.directory.api:api-ldap-net-mina:jar:1.0.0-M33:compile
+[INFO] |  +- ldapsdk:ldapsdk:jar:4.1:compile
+[INFO] |  +- org.apache.directory.api:api-asn1-api:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.directory.api:api-ldap-extras-sp:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.directory.api:api-ldap-codec-core:jar:1.0.0-M33:compile
+[INFO] |  |  \- commons-collections:commons-collections:jar:3.2.2:compile
+[INFO] |  +- org.apache.directory.api:api-ldap-extras-codec:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.directory.api:api-ldap-model:jar:1.0.0-M33:compile
+[INFO] |  |  \- org.apache.servicemix.bundles:org.apache.servicemix.bundles.antlr:jar:2.7.7_5:compile
+[INFO] |  +- org.apache.directory.api:api-util:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.mina:mina-core:jar:2.0.10:compile
+[INFO] |  +- org.apache.directory.api:api-ldap-client-api:jar:1.0.0-M33:compile
+[INFO] |  |  \- commons-pool:commons-pool:jar:1.6:compile
+[INFO] |  \- org.apache.directory.api:api-dsml-engine:jar:1.0.0-M33:compile
+[INFO] |     +- org.apache.directory.api:api-dsml-parser:jar:1.0.0-M33:compile
+[INFO] |     +- org.apache.servicemix.bundles:org.apache.servicemix.bundles.xpp3:jar:1.1.4c_6:compile
+[INFO] |     \- org.apache.servicemix.bundles:org.apache.servicemix.bundles.dom4j:jar:1.6.1_5:compile
+[INFO] |        \- xml-apis:xml-apis:jar:1.0.b2:compile
+[INFO] +- org.apache.directory.server:apacheds-core-integ:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-interceptors-authn:jar:2.0.0-M21:compile
+[INFO] |  +- org.apache.directory.server:apacheds-interceptors-hash:jar:2.0.0-M21:compile
+[INFO] |  |  +- org.apache.directory.server:apacheds-server-config:jar:2.0.0-M21:compile
+[INFO] |  |  \- org.apache.directory.api:api-ldap-extras-trigger:jar:1.0.0-M33:compile
+[INFO] |  +- org.apache.directory.server:apacheds-i18n:jar:2.0.0-M21:compile
+[INFO] |  +- commons-lang:commons-lang:jar:2.6:compile
+[INFO] |  \- org.apache.directory.api:api-ldap-schema-data:jar:1.0.0-M33:compile
+[INFO] \- commons-io:commons-io:jar:1.4:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.560 s
+[INFO] Finished at: 2016-02-19T14:02:31+01:00
+[INFO] Final Memory: 16M/303M
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbConfigKey.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbSetting.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/ClientUtil.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbOption.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbConfig.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/impl/DefaultInternalKrbClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/impl/InternalKrbClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/impl/AbstractInternalKrbClient.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/impl/DefaultKrbHandler.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbHandler.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/PreauthContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/builtin/TgtPreauth.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/builtin/EncTsPreauth.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/PreauthHandle.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/UserResponser.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/token/TokenPreauth.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/token/TokenRequestContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/token/TokenContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/KrbFastRequestState.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/KrbPreauth.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/AbstractPreauthPlugin.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/pkinit/PkinitRequestContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/pkinit/PkinitContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/pkinit/PkinitPreauth.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/pkinit/PkinitRequestOpts.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/PreauthHandler.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/preauth/UserResponseItem.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/KdcRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/AsRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/ArmoredTgsRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/TgsRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/AsRequestWithKeytab.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/AsRequestWithToken.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/TgsRequestWithTgt.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/AsRequestWithCert.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/ArmoredRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/TgsRequestWithToken.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/AsRequestWithPasswd.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/request/ArmoredAsRequest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/main/java/org/apache/kerby/kerberos/kerb/client/KrbContext.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/test/java/org/apache/kerby/kerberos/kerb/client/KrbClientSettingTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-client/src/test/java/org/apache/kerby/kerberos/kerb/client/TestKrbConfigLoad.java">
+</file>
+</checkstyle>

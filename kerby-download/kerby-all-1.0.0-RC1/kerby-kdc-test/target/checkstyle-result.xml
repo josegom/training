@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssTcpInteropTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssInteropTestBase.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithAccessTokenKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/LdapBackendKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithTokenKdcTestBase.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithIdentityTokenKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/AbstractLdapBackendKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssUdpInteropTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/ZookeeperBackendKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/KerbyKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/EncryptionTypeKdcTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyTcpForNettyKdcNetworkTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyUdpForNettyKdcNetworkTest.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/JsonBackendKdcTest.java">
+</file>
+</checkstyle>

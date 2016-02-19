@@ -1,0 +1,5 @@
+org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/EncryptionKeyAdapter.class
+org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/PrincipalNameAdapter.class
+org/apache/kerby/kerberos/kdc/identitybackend/JsonIdentityBackend.class
+org/apache/kerby/kerberos/kdc/identitybackend/JsonIdentityBackend$1.class
+org/apache/kerby/kerberos/kdc/identitybackend/typeAdapter/KerberosTimeAdapter.class

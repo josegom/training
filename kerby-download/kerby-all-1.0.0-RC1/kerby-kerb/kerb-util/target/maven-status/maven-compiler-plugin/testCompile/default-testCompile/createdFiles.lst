@@ -1,0 +1,5 @@
+org/apache/kerby/kerberos/kerb/util/CcacheTest.class
+org/apache/kerby/kerberos/kerb/util/KeysTest.class
+org/apache/kerby/kerberos/kerb/util/NewEncryptionTest.class
+org/apache/kerby/kerberos/kerb/util/EncryptionTest.class
+org/apache/kerby/kerberos/kerb/util/KeytabTest.class

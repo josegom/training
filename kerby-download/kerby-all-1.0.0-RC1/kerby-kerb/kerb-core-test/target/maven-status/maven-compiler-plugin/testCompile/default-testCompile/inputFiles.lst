@@ -1,0 +1,6 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestAsRepCodec.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestAsReqCodec.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/CodecTestUtil.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/CodecTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestTgsRepCodec.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-core-test/src/test/java/org/apache/kerby/kerberos/kerb/codec/TestTgsReqCodec.java

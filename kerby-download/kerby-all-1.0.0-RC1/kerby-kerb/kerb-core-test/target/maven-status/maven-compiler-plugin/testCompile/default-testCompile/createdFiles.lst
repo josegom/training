@@ -1,0 +1,6 @@
+org/apache/kerby/kerberos/kerb/codec/TestTgsReqCodec.class
+org/apache/kerby/kerberos/kerb/codec/TestAsRepCodec.class
+org/apache/kerby/kerberos/kerb/codec/CodecTest.class
+org/apache/kerby/kerberos/kerb/codec/TestTgsRepCodec.class
+org/apache/kerby/kerberos/kerb/codec/CodecTestUtil.class
+org/apache/kerby/kerberos/kerb/codec/TestAsReqCodec.class

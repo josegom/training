@@ -1,0 +1,11 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/DesKeyMakerTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/KeyDeriveTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/String2keyTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/FastUtilTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/CmacTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/CheckSumsTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/CheckSumTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/CamelliaEncTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/DecryptionTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/Crc32Test.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-crypto/src/test/java/org/apache/kerby/kerberos/kerb/crypto/PrfTest.java

@@ -1,0 +1,13 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbOutputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/KrbInputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KrbKeytab.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabEntry.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/Keytab.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheInputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredCacheOutputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Tag.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/Credential.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/KrbCredentialCache.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabInputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/keytab/KeytabOutputStream.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-util/src/main/java/org/apache/kerby/kerberos/kerb/ccache/CredentialCache.java

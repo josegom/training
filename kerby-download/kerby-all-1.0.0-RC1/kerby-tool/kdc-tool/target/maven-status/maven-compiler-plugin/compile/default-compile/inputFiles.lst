@@ -1,0 +1,15 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/KeytabRemoveCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kdcinit/KdcInitTool.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/KeytabAddCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/ChangePasswordCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/KadminTool.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/AuthUtil.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/ListPrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/RenamePrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/DeletePrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/KadminCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/AddPrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/ModifyPrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/Krb5Conf.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/command/GetPrincipalCommand.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-tool/kdc-tool/src/main/java/org/apache/kerby/kerberos/tool/kadmin/ToolUtil.java

@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/apache/kerby/benchmark/JsonBackendBenchmark.cleanup
+inline,org/apache/kerby/benchmark/JsonBackendBenchmark.queryTest
+inline,org/apache/kerby/benchmark/JsonBackendBenchmark.setup
+inline,org/apache/kerby/benchmark/KrbCodecBenchmark.decodeWithApacheDS
+inline,org/apache/kerby/benchmark/KrbCodecBenchmark.decodeWithKerby
+inline,org/openjdk/jmh/infra/Blackhole.clearSinks

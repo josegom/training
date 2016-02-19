@@ -1,0 +1,7 @@
+org/apache/kerby/kerberos/tool/token/TokenCache.class
+org/apache/kerby/kerberos/tool/klist/KlistTool.class
+org/apache/kerby/kerberos/tool/klist/KlistOption.class
+org/apache/kerby/kerberos/tool/ToolUtil.class
+org/apache/kerby/kerberos/tool/kinit/KinitTool.class
+org/apache/kerby/kerberos/tool/token/TokenInit.class
+org/apache/kerby/kerberos/tool/kinit/KinitOption.class

@@ -1,0 +1,17 @@
+org/apache/kerby/kerberos/tool/kadmin/command/ModifyPrincipalCommand.class
+org/apache/kerby/kerberos/tool/kadmin/ToolUtil.class
+org/apache/kerby/kerberos/tool/kadmin/command/AddPrincipalCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/KeytabAddCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/KadminCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/KeytabRemoveCommand.class
+org/apache/kerby/kerberos/tool/kdcinit/KdcInitTool.class
+org/apache/kerby/kerberos/tool/kadmin/AuthUtil$KeytabJaasConf.class
+org/apache/kerby/kerberos/tool/kadmin/AuthUtil$TicketCacheJaasConf.class
+org/apache/kerby/kerberos/tool/kadmin/Krb5Conf.class
+org/apache/kerby/kerberos/tool/kadmin/AuthUtil.class
+org/apache/kerby/kerberos/tool/kadmin/command/GetPrincipalCommand.class
+org/apache/kerby/kerberos/tool/kadmin/KadminTool.class
+org/apache/kerby/kerberos/tool/kadmin/command/ListPrincipalCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/ChangePasswordCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/DeletePrincipalCommand.class
+org/apache/kerby/kerberos/tool/kadmin/command/RenamePrincipalCommand.class

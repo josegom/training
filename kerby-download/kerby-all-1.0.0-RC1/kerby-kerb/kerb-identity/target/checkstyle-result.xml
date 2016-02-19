@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/IdentityService.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/backend/IdentityBackend.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/backend/AbstractIdentityBackend.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/backend/MemoryIdentityBackend.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/backend/BackendConfig.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/CacheableIdentityService.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kerb/kerb-identity/src/main/java/org/apache/kerby/kerberos/kerb/identity/KrbIdentity.java">
+</file>
+</checkstyle>

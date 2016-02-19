@@ -1,0 +1,7 @@
+org/apache/kerby/kerberos/kdc/identitybackend/ZookeeperIdentityBackend.class
+org/apache/kerby/kerberos/kdc/identitybackend/IdentityZNodeHelper.class
+org/apache/kerby/kerberos/kdc/identitybackend/ZKUtil.class
+org/apache/kerby/kerberos/kdc/identitybackend/ZKConfKey.class
+org/apache/kerby/kerberos/kdc/identitybackend/ZookeeperIdentityBackend$1.class
+org/apache/kerby/kerberos/kdc/identitybackend/ZookeeperIdentityBackend$MyWatcher.class
+org/apache/kerby/kerberos/kdc/identitybackend/IdentityZNode.class

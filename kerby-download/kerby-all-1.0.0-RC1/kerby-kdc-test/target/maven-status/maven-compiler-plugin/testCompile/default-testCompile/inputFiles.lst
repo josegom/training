@@ -1,0 +1,14 @@
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithIdentityTokenKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssTcpInteropTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithAccessTokenKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssUdpInteropTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyTcpForNettyKdcNetworkTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/WithTokenKdcTestBase.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/JsonBackendKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/KerbyKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/LdapBackendKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/ZookeeperBackendKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/OnlyUdpForNettyKdcNetworkTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/AbstractLdapBackendKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/EncryptionTypeKdcTest.java
+/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/kerby-kdc-test/src/test/java/org/apache/kerby/kerberos/kdc/GssInteropTestBase.java

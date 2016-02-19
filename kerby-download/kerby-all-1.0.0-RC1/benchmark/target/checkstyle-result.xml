@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/benchmark/src/main/java/org/apache/kerby/benchmark/KrbCodecBenchmark.java">
+</file>
+<file name="/home/jmgomez/projects/training/kerby-download/kerby-all-1.0.0-RC1/benchmark/src/main/java/org/apache/kerby/benchmark/JsonBackendBenchmark.java">
+</file>
+</checkstyle>

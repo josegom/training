@@ -1,0 +1,8 @@
+org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthDisabled.class
+org/apache/kerby/kerberos/kerb/integration/test/AppTest$2.class
+org/apache/kerby/kerberos/kerb/integration/test/AppTest$1.class
+org/apache/kerby/kerberos/kerb/integration/test/SaslAppTest.class
+org/apache/kerby/kerberos/kerb/integration/test/GssAppTest.class
+org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestWithTokenPreauthEnabled.class
+org/apache/kerby/kerberos/kerb/integration/test/TokenLoginTestBase.class
+org/apache/kerby/kerberos/kerb/integration/test/AppTest.class
