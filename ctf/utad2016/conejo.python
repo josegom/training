@@ -1,0 +1,18 @@
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+sock.connect(("52.30.213.72 ", 1337))
+sock.recv(39)
+key = sock.recv(20)
+sock.recv(46)
+port = int(sock.recv(5))
+
+for x in range(0, 14):
+	print(x)
+	sock2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	sock2.connect(("52.30.213.72 ", port))
+	sock2.send(key)
+	sock2.recv(12)
+	port = int(sock2.recv(5))
+	sock2.close
+sock.close
+
